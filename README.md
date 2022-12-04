@@ -1,1 +1,1 @@
-# AIBISI-bacterial-prediction-with-pathological-slides
+# AIBISI: bacterial-prediction-with-pathological-slides
